@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> {{ page.title }}
+<title> {% if page.title %} {{ page.title }} {% endif %} </title>
 </head>
 <body>
   {{ content }}
