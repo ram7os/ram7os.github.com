@@ -1,0 +1,117 @@
+Raymund Ramos
+Pinole, CA 94564
+ram7os@yahoo.com
+
+
+WORK EXPERIENCE
+Yahoo Ad Exchange / Yahoo Ad Manager Plus
+Supervisor: Krishna Ubrani
+October 2014
+Sr. Service Engineer
+
+Responsible for maintaining the Yahoo Ad Exchange and Ad Manager Plus 
+components with 6 other service engineers, 7500+ RHEL6 servers across 
+environments. Current projects include Chef migration, updating the 
+Druid community Chef cookbook to work in RHEL6, and ensuring the 
+separation of dev and ops duties (SOX audits).
+
+Stack: RHEL6, Java, Scala, Tomcat, Hadoop/HDFS, Druid, Zookeeper, 
+Helix, Kafka, Git. Some exposure to Docker
+
+---
+RightMedia Exchange [RMX] Adserving (Yahoo)
+Supervisor: Krishna Ubrani
+February 2013-September 2014
+Service Engineer
+
+Responsible for maintaining the Rightmedia Adserving components with 3 
+(to 5 at peak) other service engineers, 5000+ RHEL4/6 servers across 
+environments. Chaired the daily scrum meeting. Responsible for bucket 
+deploys and promotion to 100% production, which were done by one-click 
+jobs in Jenkins. Assisted developers with adserver troubleshooting, 
+mostly using tcpdump, gdb, and strace. Developed runbooks to train and 
+delegate to NOC.
+
+Stack: RHEL6, MySQL, Adserver written in C++, haproxy, Apache Traffic 
+Server, Jenkins, cluster and deployment software written mostly in 
+Perl. Some exposure to Hadoop/HDFS, OpenTSDB, Hive, Pig, Chef, Ruby, 
+Vagrant, Virtualbox, Test Kitchen, Kanban
+
+---
+RightMedia / Yieldmanager.com Applications (Yahoo)
+Supervisor: Chris Lim
+June 2009-January 2013
+Service Engineer
+
+Responsible for maintaining RightMedia Application components with 3 
+other service engineers, 200+ RHEL4/5 servers across environments. 
+https://my.yieldmanager.com was the main site, which is where 
+RightMedia clients login, place new ads, run campaigns on the display 
+ad exchange. Chaired the Rightmedia daily operations meeting across 
+multiple teams, including the MySQL DBAs and technical account 
+managers. Prepared for and executed yearly BCP certifications. Worked 
+with the vip operations team to create and update rotations on load 
+balancers. Oncall rotations were 12/7, shared with the Bangalore team.
+
+Stack: LAMP, and Jive forums running Java/Tomcat, Nagios
+
+---
+MyBlogLog, a Yahoo! Inc. service
+Hiring Supervisor: Todd Sampson
+September 2007-May 2009
+Operations Engineer/ Technical Yahoo
+
+My primary responsibility at this position was to manage and maintain 
+160 RHEL4 servers. I provided 24/7 support using Hyperic EE monitoring 
+software which sends alerts about system and application faults. I 
+handled outages with the other MyBlogLog engineers and did a root 
+cause analysis to prevent future occurrences of the problem. Outage 
+handling also involved coordination with the Yahoo Operations Center 
+and Site Operations staff at multiple colos.
+
+Longer term projects included developing server growth plans, working 
+with Yahoo storage team to certify backups, implementing and testing 
+BCP processes, coordinating with Network Security to migrate from 
+colo-level ACLs to host-level firewalls.
+
+Stack: LAMP, memcached, with a few components written in Python and 
+Erlang, Hyperic
+
+---
+California Digital Library
+Supervisor: Lynne Cameron
+August 2001-September 2007
+Systems Architect / Programmer Analyst III
+
+At this position, I managed 12 Solaris servers, 44 Linux servers (40 
+of which form a storage cluster), 2 OS X servers, 1 Windows 2003 
+Terminal Server, and 204 Terabytes raw storage in support of CDL's 
+development and staging environment. I supervise a contract sysadmin 
+who helps me support this environment.
+
+The 44 Linux servers run a variety of Linux distributions: Fedora Core 
+4, Fedora Core 5, Debian 3.1, Debian 4.0, SLES 9, and OpenSUSE 10.x.
+
+The storage technologies used for this environment run the whole 
+range: from commodity PATA/SATA disks using reiserfs and ext3 
+filesystems using LVM or iSCSI, NAS with NFS, direct attached SCSI 
+RAID arrays to FC disk RAID arrays zoned on Qlogic SAN switches.
+
+LAMP applications that I've setup and run in production for CDL: 
+Wordpress MU, TikiWiki, MoinMoin, phpBB3, and Movable Type.
+
+The 2 OS X servers are used for CDL's intranet server where CDL runs 
+WebDAV filesharing with Active Directory authentication.
+
+Other duties in this position are to coordinate with our service 
+providers for our desktop technical support (Windows and Mac 
+platforms), server colocation at the UCB campus, production server 
+system administration, and network administration. I also assist 
+in-house developers in application setup across development, staging, 
+and production; and explore, evaluate, and integrate new 
+infrastructure technologies like ZFS and iSCSI.
+
+
+EDUCATION
+Bachelor of Arts in Psychology, completed June 1996
+University of California at Santa Cruz
