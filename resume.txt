@@ -4,23 +4,23 @@ ram7os@yahoo.com
 
 
 WORK EXPERIENCE
+Yahoo Sunnyvale
 Yahoo Ad Exchange / Yahoo Ad Manager Plus
-Supervisor: Krishna Ubrani
-October 2014
-Sr. Service Engineer
+October 2014-present
+Sr. Production Engineer
 
-Responsible for maintaining the Yahoo Ad Exchange and Ad Manager Plus 
-components with 6 other service engineers, 7500+ RHEL6 servers across 
-environments. Current projects include Chef migration, updating the 
-Druid community Chef cookbook to work in RHEL6, and ensuring the 
-separation of dev and ops duties (SOX audits).
+Responsible for maintaining the Yahoo Ad Exchange and Ad Manager Plus
+components with 6 other service engineers, 7500+ RHEL6 servers across
+environments. Current projects include Chef migration from a
+proprietary configuration management system, creating CI/CD pipelines
+for grid workflows and webapps, and runbook automation using Chef.
 
-Stack: RHEL6, Java, Scala, Tomcat, Hadoop/HDFS, Druid, Zookeeper, 
-Helix, Kafka, Git. Some exposure to Docker
+Stack: RHEL6, Java, Scala, Jetty, Hadoop/HDFS, Druid, Zookeeper, 
+Helix, Kafka, Git, Docker
 
 ---
-RightMedia Exchange [RMX] Adserving (Yahoo)
-Supervisor: Krishna Ubrani
+Yahoo Sunnyvale
+RightMedia Exchange [RMX] Adserving
 February 2013-September 2014
 Service Engineer
 
@@ -38,8 +38,8 @@ Perl. Some exposure to Hadoop/HDFS, OpenTSDB, Hive, Pig, Chef, Ruby,
 Vagrant, Virtualbox, Test Kitchen, Kanban
 
 ---
-RightMedia / Yieldmanager.com Applications (Yahoo)
-Supervisor: Chris Lim
+Yahoo Burbank
+RightMedia / my,api.yieldmanager.com
 June 2009-January 2013
 Service Engineer
 
@@ -57,7 +57,6 @@ Stack: LAMP, and Jive forums running Java/Tomcat, Nagios
 
 ---
 MyBlogLog, a Yahoo! Inc. service
-Hiring Supervisor: Todd Sampson
 September 2007-May 2009
 Operations Engineer/ Technical Yahoo
 
@@ -78,8 +77,8 @@ Stack: LAMP, memcached, with a few components written in Python and
 Erlang, Hyperic
 
 ---
-California Digital Library
-Supervisor: Lynne Cameron
+University of California
+California Digital Library (cdlib.org)
 August 2001-September 2007
 Systems Architect / Programmer Analyst III
 
@@ -103,13 +102,13 @@ Wordpress MU, TikiWiki, MoinMoin, phpBB3, and Movable Type.
 The 2 OS X servers are used for CDL's intranet server where CDL runs 
 WebDAV filesharing with Active Directory authentication.
 
-Other duties in this position are to coordinate with our service 
-providers for our desktop technical support (Windows and Mac 
-platforms), server colocation at the UCB campus, production server 
-system administration, and network administration. I also assist 
-in-house developers in application setup across development, staging, 
-and production; and explore, evaluate, and integrate new 
-infrastructure technologies like ZFS and iSCSI.
+Other duties in this position are to coordinate with our service
+providers for our desktop technical support (Windows and Mac
+platforms), server colocation at the UCB campus, production server
+system administration, and network administration. I also assist
+in-house developers in application setup across development, staging,
+and production; and explore, evaluate, and integrate infrastructure
+technologies like ZFS and iSCSI.
 
 
 EDUCATION
